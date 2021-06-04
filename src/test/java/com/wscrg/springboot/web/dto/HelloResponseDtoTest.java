@@ -1,4 +1,4 @@
-package com.wscrg.springboot.dto;
+package com.wscrg.springboot.web.dto;
 
 import com.wscrg.springboot.web.dto.HelloResponseDto;
 import org.junit.Test;
